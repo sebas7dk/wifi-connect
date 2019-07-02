@@ -1,4 +1,16 @@
 - commits:
+    - subject: Add link to support boards/dongles
+      hash: 3e696e807f715bc70c35b8d5e4ceac961ba7d7d1
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Robert Vojta <robert@balena.io>
+        signed-off-by: Robert Vojta <robert@balena.io>
+      author: Robert Vojta
+  version: 4.2.7
+  date: 2019-07-02T10:21:09.820Z
+- commits:
     - subject: Add machine-readable changelog
       hash: fe671647bd6612c9a8f44ad31682ec791a7b2b2d
       body: ''
