@@ -1,4 +1,16 @@
 - commits:
+    - subject: Optional wait in the start.sh script
+      hash: 0f70ca318636387656484c4718f5ea925b007a81
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Robert Vojta <robert@balena.io>
+        signed-off-by: Robert Vojta <robert@balena.io>
+      author: Robert Vojta
+  version: 4.2.7
+  date: 2019-07-02T10:06:00.140Z
+- commits:
     - subject: Add machine-readable changelog
       hash: fe671647bd6612c9a8f44ad31682ec791a7b2b2d
       body: ''
